@@ -66,12 +66,5 @@ I focus on understanding requirements, implementing features correctly, and impr
 
 ---
 
-### 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patel192&show_icons=true&hide_rank=true&cache_seconds=1800)
-
-
-
----
 
 I’m actively seeking **entry-level opportunities** where I can learn from experienced developers and contribute to real projects.
