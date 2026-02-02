@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 I’m **Muhammad Patel**, an **entry-level software developer** with hands-on experience building web applications using modern JavaScript technologies.  
 I focus on understanding requirements, implementing features correctly, and improving code quality through continuous learning.
